@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FrontEnd/static/css/main.d75cb54f.css",
+    "main.js": "/FrontEnd/static/js/main.77ca31e7.js",
+    "static/media/juice.png": "/FrontEnd/static/media/juice.a67aed1c4cf2e527befa.png",
+    "index.html": "/FrontEnd/index.html",
+    "main.d75cb54f.css.map": "/FrontEnd/static/css/main.d75cb54f.css.map",
+    "main.77ca31e7.js.map": "/FrontEnd/static/js/main.77ca31e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d75cb54f.css",
+    "static/js/main.77ca31e7.js"
+  ]
+}
